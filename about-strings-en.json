@@ -1,0 +1,18 @@
+{
+  "note": "NOTE:",
+  "app_limited_access": "the BÍN-kjarninn app has access to a limited number of words and inflections.",
+  "word_set": "BÍN-kjarninn word set",
+  "word_set_text": "The word set in BÍN-kjarninn app is a subset of the words available on the BÍN webpage. This simplified word set is called the BÍN-core.",
+  "is_appropriate": "The BÍN-kjarninn app word set is appropriate for those who are learning Icelandic. The results in the BÍN-kjarninn app are accessed via the published API to the BÍN-core database.",
+  "license_information": "License information",
+  "terms_of_use": "Terms of use",
+  "copyright": "© The Árni Magnússon Institute for Icelandic Studies 2002-2025.",
+  "report_issues": "Reporting issues",
+  "for_problems": "For problems with the BÍN-kjarninn ",
+  "url": "app. ",
+  "version_information": "Version Information",
+  "version": "Version",
+  "build": "Build",
+  "react_native": "React Native",
+  "updated": "Updated"
+}

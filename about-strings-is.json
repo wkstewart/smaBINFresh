@@ -1,0 +1,18 @@
+{
+  "note": "Skýring:",
+  "app_limited_access": "BÍN-kjarninn-appið hefur aðgang að takmörkuðum fjölda orða og beyginga.",
+  "word_set": "BÍN-kjarninn-orðasett",
+  "word_set_text": "Orðasettið í BÍN-kjarninn-appinu er undirmengi orðanna sem eru á heimasíðu BÍN. Þetta einfaldaða orðamengi er kallað BÍN-kjarninn.",
+  "is_appropriate": "Orðasett BÍN-kjarninn-appsins hentar þeim sem eru að læra íslensku. Niðurstöður í BÍN-kjarninn-appinu eru sóttar í gegnum útgefna API-tengingu í gagnagrunn BÍN.",
+  "license_information": "Leyfisupplýsingar",
+  "terms_of_use": "Notkunarskilmálar",
+  "copyright": "© Stofnun Árna Magnússonar í íslenskum fræðum 2002-2025.",
+  "report_issues": "Tilkynna vandamál",
+  "for_problems": "Fyrir vandamál með BÍN-kjarninn-",
+  "url": "appið. ",
+  "version_information": "Útgáfuupplýsingar",
+  "version": "Útgáfa",
+  "build": "Smíði",
+  "react_native": "React Native",
+  "updated": "Uppfært"
+}
