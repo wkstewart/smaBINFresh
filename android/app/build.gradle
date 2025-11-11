@@ -79,8 +79,8 @@ android {
         applicationId "com.smabin"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 23
-        versionName "1.23"
+        versionCode 83
+        versionName "1.24.0"
     }
     signingConfigs {
         debug {
@@ -104,6 +104,11 @@ android {
             signingConfig signingConfigs.release
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
+    }
+    packagingOptions {
+        jniLibs {
+            useLegacyPackaging false
         }
     }
 }

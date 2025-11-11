@@ -676,25 +676,25 @@ const Home = () => {
           </View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>1.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>mig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>mín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-NT-1P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>okkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>okkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-NT-1P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>2.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-NT-2P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-NT-2P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>3.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>hann{"\n"}hana{"\n"}það</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>hans{"\n"}hennar{"\n"}þess</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-NT-3P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þá{"\n"}þær{"\n"}þau</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þeirra{"\n"}þeirra{"\n"}þeirra</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-NT-3P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
@@ -705,25 +705,25 @@ const Home = () => {
           </View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>1.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>mig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>mín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-ÞT-1P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>okkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>okkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-ÞT-1P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>2.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-ÞT-2P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-ÞT-2P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>3.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>hann{"\n"}hana{"\n"}það</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>hans{"\n"}hennar{"\n"}þess</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-ÞT-3P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þá{"\n"}þær{"\n"}þau</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þeirra{"\n"}þeirra{"\n"}þeirra</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-FH-ÞT-3P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
@@ -737,25 +737,25 @@ const Home = () => {
           </View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>1.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>mig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>mín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-NT-1P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>okkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>okkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-NT-1P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>2.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-NT-2P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-NT-2P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>3.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>hann{"\n"}hana{"\n"}það</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>hans{"\n"}hennar{"\n"}þess</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-NT-3P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þá{"\n"}þær{"\n"}þau</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þeirra{"\n"}þeirra{"\n"}þeirra</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-NT-3P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
@@ -766,25 +766,25 @@ const Home = () => {
           </View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>1.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>mig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>mín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-ÞT-1P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>okkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>okkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-ÞT-1P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>2.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þig</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þín</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-ÞT-2P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkur</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>ykkar</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-ÞT-2P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
           <View style={{flexDirection: 'row', alignItems: 'center'}}><View style={styles.separatorLine} /></View>
           <View style={{flexDirection: 'row', paddingTop: 2, paddingBottom: 4}}>
               <View style={styles.personLabel}><Text style={styles.smallText}>3.p.</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>hann{"\n"}hana{"\n"}það</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>hans{"\n"}hennar{"\n"}þess</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-ÞT-3P-ET', display_OP_EF_GM_FH_NT)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þá{"\n"}þær{"\n"}þau</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þeirra{"\n"}þeirra{"\n"}þeirra</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-EF-GM-VH-ÞT-3P-FT', display_OP_EF_GM_FH_NT)}</Text></View>
           </View>
         </>;
@@ -1151,7 +1151,7 @@ const Home = () => {
               <View style={styles.personLabel}><Text style={styles.smallText}>3.p.</Text></View>
               <View style={styles.viewLabel}><Text style={styles.smallText}>honum{"\n"}henni{"\n"}því</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-ÞGF-MM-VH-ÞT-3P-ET', display_OP_PGF_MM_FH)}</Text></View>
-              <View style={styles.viewLabel}><Text style={styles.smallText}>þeir{"\n"}þær{"\n"}þau</Text></View>
+              <View style={styles.viewLabel}><Text style={styles.smallText}>þeim{"\n"}þeim{"\n"}þeim</Text></View>
               <View style={styles.elementLine}><Text style={styles.lineItem}>{getResultData('OP-ÞGF-MM-VH-ÞT-3P-FT', display_OP_PGF_MM_FH)}</Text></View>
           </View>
         </>;
